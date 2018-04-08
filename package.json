@@ -23,5 +23,8 @@
     "cookieconsent": "^3.0.4",
     "font-awesome": "^4.7.0",
     "node-sass": "^4.7.2"
+  },
+  "dependencies": {
+    "npm": "^5.8.0"
   }
 }
